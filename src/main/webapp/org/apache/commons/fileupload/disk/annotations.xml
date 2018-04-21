@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.commons.fileupload.disk.DiskFileItemFactory'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
